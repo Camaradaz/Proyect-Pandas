@@ -1,38 +1,38 @@
-id,Nombre,Apodo,Localidad,Fundación,División,Estadio,Capacidad,Figura,Director Técnico, Trofeos
+id,Nombre,Apodo,Localidad,Fundación,División,Estadio,Capacidad,Figura,Director Técnico,Palmarés
 1,Agropecuario,Sojero,Carlos Casares - Buenos Aires,23-08-2011,Primera B Nacional,Ofelia Rosenzuaig,8000,Matias Fritzler,Diego Osella,0  
 2,Aldosivi,Tiburón,Mar del Plata - Buenos Aires,29-03-1913,Superliga,José María Minella,35354,Santiago Silva,Martín Palermo,0
-3,All'Boys
-4,Almagro
-5,Alvarado
-6,Argentinos
-7,Arsenal
-8,Almirante Brown
-9,Atlanta
-10,Atletico Rafaela
+3,All'Boys,Albo,Floresta - Buenos Aires,15-03-1913,Primera B Nacional,Islas Malvinas,21500,Fernando Barrientos,Aníbal Biggeri,0
+4,Almagro,Tricolor,José Ingenieros - Buenos Aires,06-01-1911,Primera B Nacional,Tres de Febrero,19000,Tomás Conechny,Norberto Paparatto,0
+5,Alvarado,Torito, Mar del Plata - Buenos Aires,21-06-1928,Primera B Nacional,José María Minella,35354,Facundo Pons,Manuel Fernandez,0
+6,Almirante Brown,La Fragata,Isidro Casanova - Buenos Aires,17-01-1922,Primera B Nacional,Fragata Presidente Sarmiento, 22500,Marcos Brítez Ojeda,Fabián Nardozza,0
+7,Argentinos Juniors
+8,Arsenal
+9,Atlanta,Los Bohemios,Villa Urquiza - Buenos Aires,12-10-1904,Primera B Nacional,Don León Kolbovsky,14000,Gonzalo Klusener,Alejandro Orfila,1
+10,Atletico Rafaela,La Crema,Rafaela - Santa Fé,13-01-1907,Primera B Nacional,Nuevo Monumental,16000,Claudio Bieler,Ezequiel Medrán,0
 11,Atletico Tucuman
 12,Banfield
 13,Barracas Central
-14,Belgrano
+14,Belgrano,Pirata,Córdoba - Córdoba,19-03-1905,Primera B Nacional,Julio Cesar Villagra,30000,Pablo Vegetti,Guillermo Farré,0
 15,Boca Juniors
-16,Brown (A)
-17,Brown (PM)
+16,Brown (A),Tricolor,Adrogué - Buenos Aires,03-03-1945,Primera B Nacional,Lorenzo Arandilla,3000,Luciano Balbi,Pablo Vicó,0
+17,Brown (PM),La Banda,Puerto Madryn - Chubut,14-01-1945,Primera B Nacional,Raúl Conti,14500,Martín Perafán,Andrés Yllana,0
 18,Central Cordoba
-19,Chacarita
-20,Chaco for Ever
+19,Chacarita,Funebrero,San Martín - Buenos Aires,01-05-1906,Primera B Nacional,Estadio de Chacarita Juniors,20844,Facundo Parra,Pablo Centrone,1
+20,Chaco for Ever,Albinegro,Resistencia - Chaco,27-07-1913,Primera B Nacional,Juan Alberto García,20000,Claudio Vega,Daniel Cravero,0
 21,Colon
 22,Defensa y Justicia
-23,Def de Belgrano
-24,Dep.Madryn
-25,Dep.Maipu
-26,Dep. Moron
+23,Def de Belgrano,El Dragón,Nuñez - Buenos Aires,25-05-1906,Primera B Nacional,Juan Pasquele,9000,Fabián Assmann,Pablo Frontini,0
+24,Dep.Madryn,Aurinegro,Puerto Madryn - Chubut,07-05-1924,Primera B Nacional,Coliseo del Golfo,6000,Juan Marcelo Ojeda,Ricardo Pancaldo,0
+25,Dep.Maipu,Botellero,Maipú - Mendoza,16-12-1927,Primera B Nacional,Omar Higinio Sperdutti,8000,Gonzalo Rehak,Juan Sara,0
+26,Dep.Moron,El Gallo, Morón - Buenos Aires,20-06-1947,Primera B Nacional,Nuevo Francisco Urbano,32000,Damián Akerman,Alejandro Migliardi,0
 27,Estudiantes
-28,Estudiantes (BA)
-29,Estudiantes (RC)
-30,Ferro
-31,Flandria
+28,Estudiantes (BA),El Pincha,Caseros - Buenos Aires,15-08-1898,Primera B Nacional,Ciudad de Caseros,16740,Daniel Monllor,Walter Otta,1
+29,Estudiantes (RC),Leones,Río Cuarto - Córdoba,21-09-1912,Primera B Nacional,Ciudad de Río Cuarto,15000,Santiago Zurbriggen,Sergio Vázquez,0
+30,Ferro,Verdolaga,Caballito - Buenos Aires,28-07-1904,Primera B Nacional,Arquitecto Ricardo Etcheverri,24268,Gonzalo Rodríguez,Juan Branda,0
+31,Flandria,El Canario,Jáuregui - Buenos Aires,09-02-1941,Primera B Nacional,Carlos V,4000,Franco Tisera,Andrés Montenegro,0
 32,Gimnasia (LP)
-33,Gimnasia (J)
-34,Gimnasia (M)
+33,Gimnasia (J),Lobo Jujeño,San Salvador - Jujuy,18-03-1931,Primera B Nacional,23 de Agosto,23000,Cristian Lucchetti,Darío Franco,0
+34,Gimnasia (M),Mensana,Mendoza - Mendoza,30-08-1908,Primera B Nacional,Víctor Antonio Legrotaglie,11500,Joan Juncos,Luca Marcogiuseppe,0
 35,Godoy Cruz
 36,Guemes (SdE)
 37,Huracán
